@@ -10,13 +10,12 @@ My solutions and notes for every level of OverTheWire Bandit — a Linux command
 - [x] Level 3 — Hidden files
 - [x] Level 4 — Finding human-readable files
 - [x] Level 5 — Find with size and type conditions
-- [ ] Level 6
-- [ ] Level 7
-- [ ] Level 8
-- [ ] Level 9
-- [ ] Level 10
+- [x] Level 6 — Find by owner, group, and size across the whole server
+- [x] Level 7 — Grep a keyword from a huge file
+- [x] Level 8 — Sort and find the unique line
+- [x] Level 9 — Extract strings from a binary file
+- [x] Level 10 — Decode base64
+- [ ] Level 11
+- [ ] Level 12
+- [ ] Level 13
 
-## About
-
-Cybersecurity student at RMIT University (Melbourne).
-Building toward a SOC Analyst career.
