@@ -7,7 +7,7 @@ Read a file called `-` (a dash).
 - `cat ./-` — the `./` prefix tells Linux to treat `-` as a filename, not a flag
 
 ## Solution
-cat ./-
+`cat ./-`
 
 
 ## What I Learned
