@@ -8,9 +8,8 @@ Log into the Bandit game server using SSH and find the password for the next lev
 - `cat` — prints the contents of a file
 
 ## Solution
-ssh bandit0@bandit.labs.overthewire.org -p 2220
-
-cat readme
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
+`cat readme`
 
 
 ## What I Learned
